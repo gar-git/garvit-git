@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit-git&label=Profile%20views&color=0e75b6&style=flat" alt="garvit-git" /> </p>
 
-- 🔭 I’m currently working on **developing a Sign Language Recognition System using Python and OpenCV**
+- 🔭 I’m currently working on **developing an Indian Sign Language Recognition System using OpenCV and TesorFlow**
 
 - 🌱 I’m currently learning **about the intricacies of Data Science**
 
